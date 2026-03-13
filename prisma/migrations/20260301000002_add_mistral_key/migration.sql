@@ -1,0 +1,1 @@
+ALTER TABLE "user_ecovillage" ADD COLUMN IF NOT EXISTS "mistralKey" TEXT NOT NULL DEFAULT '';
